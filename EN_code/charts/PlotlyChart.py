@@ -941,7 +941,7 @@ def plot_seasonality_and_residual(data, ticker):
     ))
 
     fig.update_layout(
-        title=f"Seasonality and Residual for {ticker}",
+        title=f"",
         xaxis_title="",
         yaxis_title="Value",
         template="plotly_white",

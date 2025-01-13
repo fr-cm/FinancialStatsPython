@@ -1012,7 +1012,7 @@ def run_analyses():
                         "plot": plot_var_analysis_html,
                         "text": f"""
                                 <p>
-                                <b> Value at Risk (95%): {-var_value:.2%}</b> 
+                                <b> Value at Risk (95%): {-var_value:.2%}</b> <br>
                                - Stima la perdita massima attesa (in percentuale) con un livello di confidenza del 95%.
                                Un VaR del 5% indica che c'è solo il 5% di probabilità che la perdita superi questo valore in un dato periodo.<br>
                                 <b>Historical VaR (95%):{var_h:.4f}</b><br>
