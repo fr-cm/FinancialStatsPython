@@ -1,7 +1,10 @@
+---
+---
 # FinancialStatsPython
 
 FinancialStatsPython è un progetto Python progettato per eseguire analisi finanziarie dettagliate su azioni e indici di mercato. Questo script automatizza la raccolta dei dati, l'analisi del rischio, la generazione di grafici interattivi e la previsione dei prezzi, combinando tecniche statistiche avanzate con l'intelligenza artificiale. L'obiettivo è fornire uno strumento completo per la valutazione delle performance di mercato e la gestione del rischio.
 
+---
 ---
 
 ## **Funzionalità principali**
@@ -66,6 +69,7 @@ FinancialStatsPython è un progetto Python progettato per eseguire analisi finan
 - **LSTM** per previsioni basate su reti neurali ricorrenti.
 
 ---
+---
 
 
 # Esempio Output 
@@ -80,3 +84,6 @@ FinancialStatsPython è un progetto Python progettato per eseguire analisi finan
 ---
 ## **Disclaimer**
 Questo progetto è a scopo esclusivamente educativo e non costituisce consulenza finanziaria. L'autore declina esplicitamente qualsiasi responsabilità per errori, omissioni o inesattezze nelle analisi e nelle informazioni fornite. L'utilizzo di questi dati è a rischio esclusivo dell'utente. L'autore non garantisce l'accuratezza, la completezza o l'affidabilità delle informazioni presentate, né l'assenza di malfunzionamenti nello script utilizzato. Inoltre, l'autore non sarà ritenuto responsabile per eventuali danni diretti, indiretti, incidentali o consequenziali derivanti dall'uso o dall'affidamento su queste analisi. Gli utenti sono invitati a verificare e validare indipendentemente le informazioni prima di prendere decisioni basate su di esse.
+
+---
+---
