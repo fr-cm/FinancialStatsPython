@@ -67,5 +67,12 @@ FinancialStatsPython è un progetto Python progettato per eseguire analisi finan
 
 ---
 
+
+# Esempio Output da teminale
+
+[![Output](https://github.com/fr-cm/FinancialStatsPython/blob/Example/ITA_code/AssetsEX/Example_output_on_terminal_IT.png)]
+
+
+---
 ## **Disclaimer**
 Questo progetto è a scopo esclusivamente educativo e non costituisce consulenza finanziaria. L'autore declina esplicitamente qualsiasi responsabilità per errori, omissioni o inesattezze nelle analisi e nelle informazioni fornite. L'utilizzo di questi dati è a rischio esclusivo dell'utente. L'autore non garantisce l'accuratezza, la completezza o l'affidabilità delle informazioni presentate, né l'assenza di malfunzionamenti nello script utilizzato. Inoltre, l'autore non sarà ritenuto responsabile per eventuali danni diretti, indiretti, incidentali o consequenziali derivanti dall'uso o dall'affidamento su queste analisi. Gli utenti sono invitati a verificare e validare indipendentemente le informazioni prima di prendere decisioni basate su di esse.
