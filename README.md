@@ -67,10 +67,12 @@
 ---
 ## Dashboard Html
 
+https://github.com/fr-cm/FinancialStatsPython/blob/Example/EN_code/AssetsEX/AAPL_dashboard.html
+
 
 ## Terminale
 
-[[!Output]()
+[[!Output](https://github.com/fr-cm/FinancialStatsPython/blob/d73688ae1ee843dd5ced2e75691b766f7bc138f0/EN_code/AssetsEX/Example_output_on_terminal_EN.png)
 
 ---
 
