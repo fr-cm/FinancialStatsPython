@@ -1,7 +1,11 @@
+---
+---
+
 # FinancialStatsPython
 
 **FinancialStatsPython** is a Python project designed to perform detailed financial analyses of stocks and market indices. This script automates data collection, risk analysis, interactive chart generation, and price forecasting by combining advanced statistical techniques with artificial intelligence. The goal is to provide a comprehensive tool for market performance evaluation and risk management.
 
+---
 ---
 
 ## Key Features:
@@ -31,7 +35,7 @@
 
 ---
 
-# Technologies Used:
+## Technologies Used:
 
 ## - **Python Libraries:** 
 - `pandas==2.2.3`
@@ -56,9 +60,25 @@
 
 ## - **Models:** 
 - `ARIMA, GARCH, LSTM`
+---
+---
+
+# Example Output
+---
+## Dashboard Html
+
+
+## Terminale
+
+[[!Output]()
 
 ---
+
+
 
 ## Disclaimer:
 
 This project is for educational purposes only, it does not constitute financial advice. The author explicitly disclaims any liability for errors, omissions, or inaccuracies in the analyses and information provided. The use of this data is at the user's own risk. The author does not guarantee the accuracy, completeness, or reliability of the information presented or the absence of malfunctions in the script used. Furthermore, the author will not be held responsible for any direct, indirect, incidental, or consequential damages arising from the use or reliance on these analyses. Users are advised to independently verify and validate the information before making any decisions based on it.
+
+---
+---
