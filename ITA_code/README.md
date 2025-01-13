@@ -25,7 +25,7 @@ FinancialStatsPython è un progetto Python progettato per eseguire analisi finan
 
 ### 3. Modelli di Previsione
 - Utilizzo dei modelli **ARIMA** e **GARCH** per la previsione dei prezzi e della volatilà.
-- Implementazione di un modello AI (**LSTM**) per previsioni avanzate dei prezzi futuri.
+- Implementazione di un modello AI, NON STABILE per previsioni avanzate dei prezzi futuri.
 
 ### 4. Analisi Benchmark
 - Confronto del titolo con benchmark di riferimento, incluso il calcolo di beta e correlazione.
@@ -67,6 +67,7 @@ FinancialStatsPython è un progetto Python progettato per eseguire analisi finan
 - **ARIMA** per la modellazione autoregressiva dei prezzi.
 - **GARCH** per la stima della volatilà condizionata.
 - **LSTM** per previsioni basate su reti neurali ricorrenti.
+
 
 ---
 ---
