@@ -77,6 +77,7 @@ FinancialStatsPython è un progetto Python progettato per eseguire analisi finan
 
 ---
 ### Dashboard HTML
+https://github.com/fr-cm/FinancialStatsPython/blob/Example/ITA_code/AssetsEX/AAPL_dashboard.html
 ---
 ### Terminale
 [![Output](https://github.com/fr-cm/FinancialStatsPython/blob/Example/ITA_code/AssetsEX/Example_output_on_terminal_IT.png)]
