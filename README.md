@@ -20,7 +20,7 @@
 
 ### **Forecasting Models**
 - Utilization of ARIMA and GARCH models for price and volatility forecasting.
-- Implementation of an AI model (LSTM) for advanced future price predictions.
+- Implementation of an AI model (NOT STABLE) for advanced future price predictions.
 
 ### **Benchmark Analysis**
 - Comparison of stocks against reference benchmarks, including beta and correlation calculations.
