@@ -1,7 +1,11 @@
+---
+---
+
 # FinancialStatsPython
 
 **FinancialStatsPython** is a Python project designed to perform detailed financial analyses of stocks and market indices. This script automates data collection, risk analysis, interactive chart generation, and price forecasting by combining advanced statistical techniques with artificial intelligence. The goal is to provide a comprehensive tool for market performance evaluation and risk management.
 
+---
 ---
 
 ## Key Features:
@@ -16,7 +20,7 @@
 
 ### **Forecasting Models**
 - Utilization of ARIMA and GARCH models for price and volatility forecasting.
-- Implementation of an AI model (LSTM) for advanced future price predictions.
+- Implementation of an AI model (NOT STABLE) for advanced future price predictions.
 
 ### **Benchmark Analysis**
 - Comparison of stocks against reference benchmarks, including beta and correlation calculations.
@@ -57,7 +61,26 @@
 ## - **Models:** 
 - `ARIMA, GARCH, LSTM`
 ---
+---
+
+# Example Output
+---
+## Dashboard Html
+
+https://github.com/fr-cm/FinancialStatsPython/blob/Example/EN_code/AssetsEX/AAPL_dashboard.html
+
+
+## Terminale
+
+[![Output](https://github.com/fr-cm/FinancialStatsPython/blob/d73688ae1ee843dd5ced2e75691b766f7bc138f0/EN_code/AssetsEX/Example_output_on_terminal_EN.png)]
+
+---
+
+
 
 ## Disclaimer:
 
 This project is for educational purposes only, it does not constitute financial advice. The author explicitly disclaims any liability for errors, omissions, or inaccuracies in the analyses and information provided. The use of this data is at the user's own risk. The author does not guarantee the accuracy, completeness, or reliability of the information presented or the absence of malfunctions in the script used. Furthermore, the author will not be held responsible for any direct, indirect, incidental, or consequential damages arising from the use or reliance on these analyses. Users are advised to independently verify and validate the information before making any decisions based on it.
+
+---
+---
