@@ -203,6 +203,10 @@ def run_analyses():
     var_value = calculate_var(data)
     adf_result = check_stationarity(data)  # test Dickey-Fuller
     adf_pvalue = adf_result[1]  # p-value of test adf
+    messaggio = None
+    #stop_event = None
+    stop_event = threading.Event()
+    spinner_thread = None
 
     if adf_pvalue >= 0.05:
         slow_print("The series is non-stationary.")
@@ -220,7 +224,9 @@ def run_analyses():
 
     else:
         slow_print("The series is stationary.")
-
+        messaggio = (f"{BOLD} {' >>> '}{END} Elaborazione ")
+        spinner_thread = threading.Thread(target=spinner, args=(messaggio, stop_event,))
+        spinner_thread.start()
     # stationary Test
 
     # Calculation of beta with benchmark
@@ -372,8 +378,9 @@ def run_analyses():
         analysis_results['average_volume'] = data['avg_volume_50'].iloc[-1]
 
         # end loading animation
-        stop_event.set()
-        spinner_thread.join()
+        if stop_event is not None and spinner_thread is not None:
+            stop_event.set()
+            spinner_thread.join()
         sys.stdout.write('\r' + ' ' * (len(messaggio) + 2) + '\r')
         sys.stdout.flush()
 
