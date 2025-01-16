@@ -1049,7 +1049,7 @@ def run_analyses():
                                 - Interpretazione:<br>
                                   * < 30: Condizione di ipervenduto, possibile opportunità di acquisto.<br>
                                   * > 70: Condizione di ipercomprato, possibile segnale di vendita.<br>
-                                - Utilizzato per identificare potenziali inversioni di tendenza o confermare trend in corso.
+                                - Utilizzato per identificare potenziali inversioni di tendenza o confermare trend in corso.<br>
                             <b>Indice di Sharpe:  {sharpe_ratio} </b> <br>
                                  Misura il rapporto rischio/rendimento rispetto a un tasso privo di rischio. Un valore più alto indica una migliore performance aggiustata per il rischio.<br>
                                  - Interpretazione:  <br>
