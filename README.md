@@ -67,7 +67,10 @@
 ---
 ## Dashboard Html
 
-[**FinancialStatsPythonWebSite**](https://fr-cm.github.io/FinancialStatsPythonResults/Website/IONQ_dashboard.html)
+please visit the following link:
+
+[**FinancialStatsPythonWebSiteExample**](https://fr-cm.github.io/FinancialStatsPythonResults/Website/IONQ_dashboard.html)
+
 
 
 ## Terminale
