@@ -41,7 +41,7 @@
 - `pandas==2.2.3`
 - `plotly==5.24.1`
 - `plotext==5.3.2`
-- `yfinance==0.2.51`
+- `yfinance==0.2.55`
 - `numpy==2.0.2`
 - `scipy==1.15.0`
 - `jinja2==3.1.5`
