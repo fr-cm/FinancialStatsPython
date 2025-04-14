@@ -1,3 +1,12 @@
+######################################################
+#se il codice ha problemi a trovare i tiker 
+# Aggiorna la libreria yfinance all'avvio dello script
+######################################################
+#import subprocess
+#import sys
+#subprocess.check_call([sys.executable, '-m', 'pip', 'install', '--upgrade', 'yfinance'])
+
+
 from Analisi.DataRecall import get_benchmark_data, spinner, get_default_dates, get_stock_info, get_logo_url, slow_print, \
     get_stock_data,  \
     generate_dashboard, get_valid_date
