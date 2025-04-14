@@ -1,3 +1,12 @@
+######################################################
+#if the code has problems finding tickets
+# update yfinace library
+######################################################
+#import subprocess
+#import sys
+#subprocess.check_call([sys.executable, '-m', 'pip', 'install', '--upgrade', 'yfinance'])
+
+
 from analysis.DataRecall import get_benchmark_data, spinner, get_default_dates, get_stock_info, get_logo_url, slow_print, \
     get_stock_data, \
     generate_dashboard, get_valid_date
